@@ -1,9 +1,9 @@
 # sillyshark’s 1-Key-Finesse Guide!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image1.gif" width="300">
-  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image2.gif" width="300">
-  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image3.gif" width="300">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image1.gif" width="30%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image2.gif" width="30%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image3.gif" width="30%">
+</div>
 
 ## What is 1KF?
 **1KF, or 1-Key-Finesse, is an input method in modern Tetris specialized for 40L Sprint and other speed gamemodes.**
