@@ -34,8 +34,12 @@ Mainly for cheese race + other downstacking modes.
 ## Cultris II
 **https://c2.tail.ws/** \
 Combo-based speed Tetris game.
+
 After installing, go under the `settings` folder, find `1kf-mapping.txt`, and change the second line.
-```ONE_KEY_FINESSE_ENABLED=1```
+```
+ONE_KEY_FINESSE_ENABLED=1
+```
+
 Thanks ZyphDoz for adding 1KF, and thanks to Shay, Def and alfrix for creating the original Cultris II patch!
 
 ## 1KF Discord
@@ -50,7 +54,9 @@ Thanks ZyphDoz for adding 1KF, and thanks to Shay, Def and alfrix for creating t
 The first input of a key will preview the placement, and the second input will place it.
 Justin1L8’s 1KF code for Jstris already has it!
 Change this line in the Tampermonkey script:
-```static doubleTapConfirmation = true;```
+```
+static doubleTapConfirmation = true;
+```
 
 ### Vertical J/L/T pieces practice
 https://jstris.jezevec10.com/play/mode/2099
