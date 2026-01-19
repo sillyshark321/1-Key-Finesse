@@ -23,7 +23,7 @@ Regular 1KF control schemes typically use a 4×10 matrix of keys (1 to /) and sp
 - You think regular guideline controls are restricting
   - You’ve reached your mechanical limit and don’t think you can go any faster
   - You have an injury that prevents you from playing faster
-- …and despite all this, you’re willing to give it your all to bump up your PPS or even become the fastest Tetris player (keep in mind that you’re not guaranteed to become faster than you used to by using 1KF
+- …and despite all this, you’re willing to give it your all to bump up your PPS or even become the fastest Tetris player (keep in mind that **you’re not guaranteed to become faster** than you used to by using 1KF
 
 This guide is NOT for average players that simply want to “get faster”. This is about a niche, experimental playstyle that doesn’t get much recognition next to the usual guideline stuff.
 
