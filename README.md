@@ -1,7 +1,14 @@
 # sillyshark’s 1-Key-Finesse Guide!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image1.gif" width="300">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image2.gif" width="300">
+  <img src="https://raw.githubusercontent.com/sillyshark321/1-Key-Finesse/main/media/image3.gif" width="300">
+</p>
 
 ## What is 1KF?
-**1KF, or 1-Key-Finesse, is an input method in modern Tetris specialized for 40L Sprint and other speed gamemodes.** In 1KF, each key corresponds to placing a piece in a specific column and orientation on the board.
+**1KF, or 1-Key-Finesse, is an input method in modern Tetris specialized for 40L Sprint and other speed gamemodes.**
+
+In 1KF, each key corresponds to placing a piece in a specific column and orientation on the board.
 Regular 1KF control schemes typically use a 4×10 matrix of keys (1 to /) and spacebar for hold. This is because each piece can have 4 different orientations, and there are 10 columns on a regular Tetris board.
 1KF has the potential to be the fastest Tetris playstyle whilst still being accessible for everyone regardless of mechanical skill, at the cost of being difficult to learn.
 
