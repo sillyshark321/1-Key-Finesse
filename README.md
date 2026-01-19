@@ -5,7 +5,8 @@
 Regular 1KF control schemes typically use a 4×10 matrix of keys (1 to /) and spacebar for hold. This is because each piece can have 4 different orientations, and there are 10 columns on a regular Tetris board.
 1KF has the potential to be the fastest Tetris playstyle whilst still being accessible for everyone regardless of mechanical skill, at the cost of being difficult to learn.
 
-## Join the [1KF Discord](https://discord.gg/xAzagQrJZA)
+## Join the 1KF Discord
+**https://discord.gg/xAzagQrJZA**
 
 ## ⚠️ DISCLAIMER ⚠️
 **ONLY LEARN 1KF IF...**
@@ -40,6 +41,6 @@ If you are unfazed by these warnings, then step right ahead! Good luck with your
 - WylieCan't1KF
 
 ### 40L Sprint replay links above:
-- Justin1L8 - [15.061](https://jstris.jezevec10.com/replay/66786717)
-- sillyshark123 - [12.387](https://jstris.jezevec10.com/replay/99412906)
-- swng - [18.400](https://jstris.jezevec10.com/replay/98352607)
+1. Justin1L8 - [15.061](https://jstris.jezevec10.com/replay/66786717)
+2. sillyshark123 - [12.387](https://jstris.jezevec10.com/replay/99412906)
+3. swng - [18.400](https://jstris.jezevec10.com/replay/98352607)
