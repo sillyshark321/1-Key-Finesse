@@ -48,7 +48,7 @@ Mainly for cheese race + other downstacking modes.\
 (Settings icon → Input → 1kf)
 
 ## Cultris II
-**https://c2.tail.ws/** \
+**[https://c2.tail.ws/](https://web.archive.org/web/20250904020811/https://c2.tail.ws/)** (archive)\
 Combo-based speed Tetris game.
 
 After installing, go under the `settings` folder, find `1kf-mapping.txt`, and change the second line.
